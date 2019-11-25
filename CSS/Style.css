@@ -1,0 +1,178 @@
+<style>
+body {
+  background-color: white;
+}
+</style>
+}
+
+p{
+	font-size: 30px;
+	font-family: 'Bad Script', cursive;
+	color: black;
+}
+
+
+
+h1 {
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 29px;
+	margin: 0px;
+	color: black;
+}
+	
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 65px;
+	margin: 0px;
+	color: white;
+}
+
+
+ul {
+	font-family: 'Unica One', cursive;
+	list-style-type: circle;
+	margin:50;
+	padding:10;
+	width:230px;
+	overflow: hidden;
+	}
+
+li {
+	float: left;
+	padding:01px;
+	background-color: black;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+
+}
+li a:hover{
+	background-color:black;
+}
+
+li a:hover {
+	color: white;
+}
+
+
+.active {
+	background-color: black;
+	color:black;
+}
+
+.Flowers {
+	height:400px;
+	width:400px;
+	
+}
+
+.shadows{
+	height:800px;
+	width:600px;
+	padding-top:10px;
+	padding-bottom: 10px;
+
+}
+
+.jelousy{
+	height:800px;
+	width:600px;
+	padding-top:10px;
+	padding-bottom: 10px;
+	
+}
+
+.KO{
+	height:550px;
+	width:700px;
+	padding-top:10px;
+	padding-bottom: 10px;
+	
+}
+
+.matt{
+	height:800;
+	width:600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.mav{
+	height:800;
+	width:600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.Ray{
+	height:800;
+	width:600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.Sam{
+	height:800;
+	width:600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.Chuck{
+	height: 800px;
+	width: 600;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+.imi {
+	height:600px;
+	width:800px;
+	padding-top:10px;
+	padding-bottom: 50px;
+
+}
+
+.money2 {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+	padding-bottom:50px;
+
+}
+
+.shadow{
+	font-family: 'Poppins', sans-serif;
+	font-size: px;
+	margin: 0px;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
